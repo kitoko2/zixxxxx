@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159028759297",
+    "project_id": "xizz-bd23c",
+    "storage_bucket": "xizz-bd23c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159028759297:android:68d1e404bf2f5ea772e900",
+        "android_client_info": {
+          "package_name": "poyo.kitoko.com.xiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159028759297-f91pqqf99qohpd8lvln99tp9khau6308.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrEs6oe0Izen0A9g-weSLmPYBW9sKRkFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159028759297-f91pqqf99qohpd8lvln99tp9khau6308.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
